@@ -1,0 +1,2 @@
+# baiduyunpanfilerenames
+使用百度云盘下载多个文件或文件夹特别是大文件比如mp3视频容易出现已经下载完毕而文件名一直处于.baiduyun.p.downloading中，需要手工修改浪费时间
